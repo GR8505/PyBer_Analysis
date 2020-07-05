@@ -10,8 +10,8 @@
     Obtained key ride-sharing indicators for all three city types on a weekly basis.
 ### Results
     Key Ride-Sharing Indicators Summary Table
-    ![](https://github.com/GR8505/PyBer_Analysis/blob/master/Images/Summary_df.png)
     
+    ![](Images/Summary_df.png)
 ### Summary
 
 ## Challenges Encountered and Overcome
