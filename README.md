@@ -9,11 +9,23 @@
 ### Technical Analysis
     Obtained key ride-sharing indicators for all three city types on a weekly basis.
 ### Results
-    
-### Summary
+
 ![](Images/Summary_df.png)
 
+    - Urban cities recorded the highest number of rides and drivers but also registered the lowest average fare per ride
+      and the average fare per driver.
+
+    - Rural cities recorded the lowest number of rides and drivers but the highest average fares per ride and driver.
+
+
 ![](Images/Fig8.png)
+
+
+
+### Summary
+    Although Urban cities recorded the highest number of rides 
+
+
 
 ## Challenges Encountered and Overcome
 
