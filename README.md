@@ -17,12 +17,7 @@
 ## Challenges Encountered and Overcome
 
 ### Challenges and Difficulties Encountered
-
-* Programming
-
-* Data analysis
-
-* Graphing, etc
+    I had no challenges. 
 
 ### Technical Analyses Used
 
