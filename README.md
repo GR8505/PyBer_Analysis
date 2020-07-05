@@ -5,11 +5,12 @@
 ## Background and Results
 
 ### Purpose
-    * To get a better understanding of the ride-sharing market in the three city types.
+    To get a better understanding of the ride-sharing market in the three city types.
 ### Technical Analysis
-    * Obtained key ride-sharing indicators for all three city types on a weekly basis.
+    Obtained key ride-sharing indicators for all three city types on a weekly basis.
 ### Results
-    * 
+    Key Ride-Sharing Indicators Summary Table
+    ![](Images/Summary_df.png)
 ### Summary
 
 ## Challenges Encountered and Overcome
