@@ -18,12 +18,15 @@
     - Rural cities recorded the lowest number of rides and drivers but the highest average fares per ride and driver.
 
 
+
 ![](Images/Fig8.png)
 
+    - This image illustrates that Rural cities recorded the lowest weekly fares compared to both Suburban and Urban cities.
 
 
 ### Summary
-    Although Urban cities recorded the highest number of rides 
+Rural cities registered the highest average fare per ride and average fare per driver because this market has fewer drivers 
+compared to Urban and Suburban cities.  
 
 
 
@@ -33,11 +36,15 @@
     I had no challenges. 
 
 ### Technical Analyses Used
-
+    None required.
+    
 ## Recommendations and Next Steps
-
+       
 ### Recommendations for Future Analysis
-
+    The Urban cities seem to be highly competitive and overserved with more drivers than rides.  
+    I recommend pulling a percentage of drivers from these cities to operate in the underserved 
+    cities, especially the Rural districts.
+    
 ### Additional Analysis 1
 
 * Description of Approach
