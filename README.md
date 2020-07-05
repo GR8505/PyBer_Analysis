@@ -11,7 +11,9 @@
 ### Results
     
 ### Summary
-![Key Ride-Sharing Indicators Summary Table](Images/Summary_df.png)
+![](Images/Summary_df.png)
+
+![](Images/Fig8.png)
 
 ## Challenges Encountered and Overcome
 
