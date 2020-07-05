@@ -9,9 +9,7 @@
 ### Technical Analysis
     Obtained key ride-sharing indicators for all three city types on a weekly basis.
 ### Results
-    Key Ride-Sharing Indicators Summary Table
-    
-    ![](Images/Summary_df.png)
+    ![Key Ride-Sharing Indicators Summary Table](Images/Summary_df.png)
 ### Summary
 
 ## Challenges Encountered and Overcome
