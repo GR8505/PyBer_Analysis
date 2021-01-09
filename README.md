@@ -34,6 +34,10 @@ Both Dataframe and Visualization were obtained using the following [python code]
    the lowest average fare per ride and the average fare per driver.
 3. Rural cities recorded the lowest weekly fares compared to both Suburban and Urban cities.
 
+----------------------
+### Other Key Findings
+----------------------
+![]()
 
 ## Recommendations and Next Steps
 
