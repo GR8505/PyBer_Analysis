@@ -1,6 +1,5 @@
 # PyBer Analysis Report
-
-![](https://github.com/GR8505/PyBer_Analysis/blob/master/Images/PyBer.png)
+<img src="https://github.com/GR8505/PyBer_Analysis/blob/master/Images/PyBer.png" alt="drawing" width="600"/>
 
 --------------
 ## Objectives
