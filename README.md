@@ -42,9 +42,9 @@ Both Dataframe and Visualization were obtained using the following [python code]
 --------------------------------------------------------------------------|-----------------------------------------------------
 
 ### Box and Wisker Plots ###
-1. [](https://github.com/GR8505/PyBer_Analysis/blob/master/Images/Fig2.png)
-2. [](https://github.com/GR8505/PyBer_Analysis/blob/master/Images/Fig3.png)
-3. [](https://github.com/GR8505/PyBer_Analysis/blob/master/Images/Fig4.png)
+1. [Ride Count Data](https://github.com/GR8505/PyBer_Analysis/blob/master/Images/Fig2.png)
+2. [Ride Fare Data](https://github.com/GR8505/PyBer_Analysis/blob/master/Images/Fig3.png)
+3. [Driver Data](https://github.com/GR8505/PyBer_Analysis/blob/master/Images/Fig4.png)
 
 ![](https://github.com/GR8505/PyBer_Analysis/blob/master/Images/Fig6.png) | ![](https://github.com/GR8505/PyBer_Analysis/blob/master/Images/Fig7.png)
 --------------------------------------------------------------------------|----------------------------------------------------
