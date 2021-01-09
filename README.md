@@ -37,7 +37,9 @@ Both Dataframe and Visualization were obtained using the following [python code]
 ----------------------
 ### Other Key Findings
 ----------------------
-![]()
+--------------------------------------------------------------------------|-----------------------------------------------
+![](https://github.com/GR8505/PyBer_Analysis/blob/master/Images/Fig1.png) | ![]()
+--------------------------------------------------------------------------|----------------------------------------------------
 
 ## Recommendations and Next Steps
 
