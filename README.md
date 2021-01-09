@@ -7,18 +7,23 @@
    city type
 2. Create visual that shows the sum of weekly fares for each city type
 3. Provide analysis of results
+4. Challenges
 
 -----------
 ## Results
 -----------
+
+### Dataframe
 ![](Images/Summary_df.png)
 
+### Visualization
 ![](Images/Fig8.png)
 
-   
+Dataframe and visualization were obtained via the following [python code](https://github.com/GR8505/PyBer_Analysis/blob/master/Pyber_Challenge.ipynb)
 
 
-### Summary
+## Analysis
+
 Rural cities registered the highest average fare per ride and average fare per driver because this market has fewer drivers 
 compared to Urban and Suburban cities.  
 
