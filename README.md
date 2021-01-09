@@ -1,16 +1,16 @@
 # PyBer Analysis Report
 
+--------------
+## Objectives
+--------------
+1. Construct a dataframe that summarizes the key metrics for the ride-sharing data by
+   city type
+2. Create visual that shows the sum of weekly fares for each city type
+3. Provide analysis of results
 
-## Background and Results
-
-### Purpose
-    To get a better understanding of the ride-sharing market in the three city types.
-### Technical Analysis
-    Obtained key ride-sharing indicators for all three city types on a weekly basis.
-
-
-### Results
-
+-----------
+## Results
+-----------
 ![](Images/Summary_df.png)
 
     - Urban cities recorded the highest number of rides and drivers but also registered the lowest average fare per ride
@@ -81,3 +81,8 @@ compared to Urban and Suburban cities.
     - Merge the data to create top-performing and worst-perfoming DataBases.
     - Create pivot tables and use resample() method to get sum of the fares for each month for each city.
     - Construct line-plots.
+
+### Purpose
+    To get a better understanding of the ride-sharing market in the three city types.
+### Technical Analysis
+    Obtained key ride-sharing indicators for all three city types on a weekly basis.
