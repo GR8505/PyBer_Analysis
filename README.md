@@ -7,7 +7,7 @@
    city type
 2. Create visual that shows the sum of weekly fares for each city type
 3. Provide analysis of results
-4. Challenges
+4. Challenges and/or Recommendations for future analysis
 
 -----------
 ## Results
@@ -16,29 +16,22 @@
 ### Dataframe
 ![](Images/Summary_df.png)
 
+
 ### Visualization
 ![](Images/Fig8.png)
 
-Dataframe and visualization were obtained via the following [python code](https://github.com/GR8505/PyBer_Analysis/blob/master/Pyber_Challenge.ipynb)
+Both Dataframe and Visualization were obtained using the following [python code](https://github.com/GR8505/PyBer_Analysis/blob/master/Pyber_Challenge.ipynb).
 
 
 ## Analysis
-
-Rural cities registered the highest average fare per ride and average fare per driver because this market has fewer drivers 
-compared to Urban and Suburban cities.  
-
-
-
-
-## Challenges Encountered and Overcome
-
-
-### Challenges and Difficulties Encountered
-    I had no challenges. 
-
-### Technical Analyses Used
-    None required.
-
+-----------------
+### Key Findings
+-----------------
+1. Rural cities registered the highest average fare per ride and average fare per 
+   driver because this market has fewer drivers compared to Urban and Suburban cities.
+2. Urban cities recorded the highest number of rides and drivers but also registered 
+   the lowest average fare per ride and the average fare per driver.
+3. Rural cities recorded the lowest weekly fares compared to both Suburban and Urban cities.
 
 
 ## Recommendations and Next Steps
@@ -80,14 +73,8 @@ compared to Urban and Suburban cities.
     - Create pivot tables and use resample() method to get sum of the fares for each month for each city.
     - Construct line-plots.
 
-### Purpose
-    To get a better understanding of the ride-sharing market in the three city types.
-### Technical Analysis
-    Obtained key ride-sharing indicators for all three city types on a weekly basis.
-    
-  - Urban cities recorded the highest number of rides and drivers but also registered the lowest average fare per ride
-      and the average fare per driver.
 
-    - Rural cities recorded the lowest number of rides and drivers but the highest average fares per ride and driver.
     
-     - This image illustrates that Rural cities recorded the lowest weekly fares compared to both Suburban and Urban cities.
+  
+
+   
