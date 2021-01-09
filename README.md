@@ -41,6 +41,11 @@ Both Dataframe and Visualization were obtained using the following [python code]
 ![](https://github.com/GR8505/PyBer_Analysis/blob/master/Images/Fig1.png) | ![](https://github.com/GR8505/PyBer_Analysis/blob/master/Images/Fig5.png)
 --------------------------------------------------------------------------|-----------------------------------------------------
 
+### Box and Wisker Plots ###
+1. 
+2.
+3. 
+
 ![](https://github.com/GR8505/PyBer_Analysis/blob/master/Images/Fig6.png) | ![](https://github.com/GR8505/PyBer_Analysis/blob/master/Images/Fig7.png)
 --------------------------------------------------------------------------|----------------------------------------------------
 
